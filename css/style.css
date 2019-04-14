@@ -27,7 +27,7 @@ h4,
 h5,
 h6 {
     margin: 0;
-    font-family: 'Erica One', cursive;
+    font-family: 'Paytone One', sans-serif;
 }
 
 p {
@@ -1389,7 +1389,7 @@ h5.cont-form {
     text-align: center;
     text-transform: capitalize;
     font-size: 1.7em;
-    font-family: 'Passion One', cursive;
+    font-family: 'Erica One', cursive;
     color: #4EC0BC;
     font-weight: 600;
 }
